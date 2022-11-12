@@ -1,2 +1,2 @@
 # Home-Automation
-Home Automation using voice (google assistant)
+Home Automation with ESP8266 using Blynk, IFTTT and Google Assistant V2.
